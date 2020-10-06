@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4aba4c87-5847-4f40-9172-bceb87f5c90a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1iDsCFReTXUrN4dRqPvBRhNOVoM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4aba4c87-5847-4f40-9172-bceb87f5c90a" name="Default Changelist" comment="" />
+      <created>1601453369485</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601453369485</updated>
+      <workItem from="1601453370914" duration="5361000" />
+      <workItem from="1601470940070" duration="6000" />
+      <workItem from="1601560811553" duration="9592000" />
+      <workItem from="1601631175987" duration="8159000" />
+      <workItem from="1601884586929" duration="6821000" />
+      <workItem from="1601906075013" duration="5139000" />
+      <workItem from="1601969221234" duration="11736000" />
+      <workItem from="1601986072666" duration="3915000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2652" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1601636966737">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2652" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/2560.0.1920.1040/0.0.2560.1400@2560.0.1920.1040" timestamp="1601636966737" />
+    <state x="3228" y="95" width="583" height="849" key="find.popup" timestamp="1601985932265">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3228" y="95" width="583" height="849" key="find.popup/2560.0.1920.1040/0.0.2560.1400@2560.0.1920.1040" timestamp="1601985932265" />
+  </component>
+</project>
