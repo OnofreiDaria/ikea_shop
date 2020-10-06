@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4aba4c87-5847-4f40-9172-bceb87f5c90a" name="Default Changelist" comment="" />
+    <list default="true" id="4aba4c87-5847-4f40-9172-bceb87f5c90a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iDsCFReTXUrN4dRqPvBRhNOVoM" />
   <component name="ProjectViewState">
@@ -37,7 +43,8 @@
       <workItem from="1601884586929" duration="6821000" />
       <workItem from="1601906075013" duration="5139000" />
       <workItem from="1601969221234" duration="11736000" />
-      <workItem from="1601986072666" duration="3915000" />
+      <workItem from="1601986072666" duration="4077000" />
+      <workItem from="1601991463570" duration="42000" />
     </task>
     <servers />
   </component>
@@ -45,6 +52,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="3145" y="1" key="CommitChangelistDialog2" timestamp="1601991478285">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3145" y="1" key="CommitChangelistDialog2/2560.0.1920.1040/0.0.2560.1400@2560.0.1920.1040" timestamp="1601991478285" />
     <state x="2652" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1601636966737">
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
